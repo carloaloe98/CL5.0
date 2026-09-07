@@ -1,0 +1,3 @@
+class Config:
+    TARGET_VALUE = 0.0091808930304
+    TOTAL_SCENARIOS = 10
